@@ -59,7 +59,7 @@
     <main>
         <section id="quem-somos">
             <h2>Quem Somos</h2>
-            <p>Somos uma organização dedicada a ajudar crianças e adolescentes de casas de abrigo que foram negligenciados por seus tutores. Nosso objetivo é fornecer apoio emocional, educacional e jurídico para esses jovens, visando garantir seus direitos e seu bem-estar.</p>
+            <p>Somos estudantes de direito dedicado a ajudar crianças e adolescentes de casas de abrigo que foram negligenciados por seus tutores. Nosso objetivo é fornecer apoio emocional, educacional e jurídico para esses jovens, visando garantir seus direitos e seu bem-estar.</p>
         </section>
         <section id="nossos-servicos">
             <h2>Nossos Serviços</h2>
@@ -71,9 +71,7 @@
         </section>
         <section id="contato">
             <h2>Contato</h2>
-            <p>Se você precisa de ajuda ou deseja mais informações sobre nossos serviços, entre em contato conosco através do formulário abaixo ou pelos nossos dados de contato:</p>
-            <p>E-mail: contato@site.com</p>
-            <p>Telefone: (XX) XXXX-XXXX</p>
+            <p>Para mais informações, siga-nos no Instagram: <a href="https://www.instagram.com/seuinstagram/">@lacosdeadocao</a></p>
         </section>
     </main>
     <footer>
